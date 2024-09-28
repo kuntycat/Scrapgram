@@ -21,22 +21,18 @@ To get started, follow these steps:
 
    ```
    npm install
-
    ```
 
    ```
    npm install axios
-
    ```
    
    ```
    npm install cheerio
-
    ```
 
    ```
    npm install qs
-
    ```
 
 
